@@ -7,7 +7,7 @@ This document outlines the end-to-end workflow used to identify, evaluate, and c
 2. **Automated extraction & enrichment** — Python scripts that pull raw company lists, scrape websites, and query LinkedIn, MCA, and news APIs for evidence.
 3. **Scoring engine** — a deterministic function that maps the six criteria to *Weak / Moderate / Strong* based on keyword patterns and quantitative signals.
 4. **Manual validation** — a human reviewer checks the top-N candidates, adds evidence links, and finalises the CSV.
-5. **Deliverables** — CSV, methodology, scoring code, and a hand-drawn funnel diagram.
+5. **Deliverables** — CSV, methodology, and scoring code.
 
 The methodology is intentionally reproducible so the same pipeline can be scaled to **1,000 companies** (see `partB_sourcing_and_1000_proposal.md`).
 

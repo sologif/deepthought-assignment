@@ -125,30 +125,6 @@ To go from 25 → 1,000 companies, we expand across three dimensions:
 
 ---
 
-## Funnel Diagram Description
+## Funnel Logic Description
 
-The hand-drawn funnel diagram (see `assets/hand_drawn_funnel.jpg`) illustrates:
-
-```
-        ╔══════════════════════════════════════╗
-        ║     UNIVERSE: ~5,000 raw entries     ║  ← MCA, directories, PLI lists
-        ╠══════════════════════════════════════╣
-        ║                                      ║
-        ║  FILTER: City + Segment + Revenue    ║  → ~1,500
-        ║                                      ║
-        ╠══════════════════════════════════════╣
-        ║                                      ║
-        ║  ENRICH: LinkedIn + News + Patents   ║  → ~1,200
-        ║                                      ║
-        ╠══════════════════════════════════════╣
-        ║                                      ║
-        ║  SCORE: Federer 6-criteria engine    ║  → ~1,000
-        ║                                      ║
-        ╠══════════════════════════════════════╣
-        ║                                      ║
-        ║  VALIDATE: Manual expert review      ║  → 1,000 final
-        ║                                      ║
-        ╚══════════════════════════════════════╝
-```
-
-*Note: Upload the actual hand-drawn diagram as `assets/hand_drawn_funnel.jpg`.*
+The sourcing funnel operates as follows:

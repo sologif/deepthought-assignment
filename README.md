@@ -15,7 +15,6 @@ Identify and profile **25 "Federer" companies** — Indian specialty manufacture
 
 ### Part B – Sourcing Strategy & Scale-Up Proposal
 - `docs/partB_sourcing_and_1000_proposal.md` — Sourcing methods + 1,000-company outreach plan
-- `assets/hand_drawn_funnel.jpg` — Hand-drawn funnel diagram *(to be added)*
 
 ## Folder Structure
 ```
@@ -31,8 +30,8 @@ deepthought-assignment/
 │   ├── methodology.md
 │   └── partB_sourcing_and_1000_proposal.md
 │
-├── assets/
-│   └── hand_drawn_funnel.jpg   ← upload your hand-drawn diagram
+├── analysis/
+│   └── (7 visualization charts)
 │
 └── README.md
 ```
